@@ -21,6 +21,7 @@ function App() {
 
     <h1> React crud with Google sheet</h1>
     {/* add getting data code */}
+    {/* delete and remove code need */}
    <Add />
     </div>
   );
