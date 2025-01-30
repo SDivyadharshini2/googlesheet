@@ -20,6 +20,7 @@ function App() {
       </header> */}
 
     <h1> React crud with Google sheet</h1>
+    {/* add getting data code */}
    <Add />
     </div>
   );
