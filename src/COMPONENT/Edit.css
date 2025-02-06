@@ -1,0 +1,68 @@
+/* 
+@media (max-width: 768px) {
+  .form-container {
+    width: 90%;
+    padding: 15px;
+    margin: 20px auto;
+  }
+
+  table {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  form label {
+    font-size: 12px;
+  }
+
+  input, button {
+    padding: 8px;
+  }
+}
+
+/* Small Screens (Mobile - 600px and below) */
+/* @media (max-width: 600px) {
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+
+  table th, table td {
+    text-align: left;
+    padding: 8px;
+  }
+
+  .form-container {
+    width: 100%;
+    padding: 10px;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  input, button {
+    padding: 6px;
+    font-size: 14px;
+  }
+
+  button {
+    padding: 8px;
+    font-size: 15px;
+  }
+}
+
+/* Extra Small Screens (400px and below) */
+/* @media (max-width: 400px) { */
+  /* form label {
+    font-size: 11px;
+  }
+
+  input {
+    padding: 5px;
+  }
+
+  button {
+    font-size: 13px;
+  }
+} */
